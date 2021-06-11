@@ -1,0 +1,21 @@
+html {
+  text-align: center;
+}
+
+
+body{
+  background-color: #FF5B49;
+  border: 70px solid green;
+  margin: 0;
+}
+
+#container {
+  background-color: #obe6a4;
+  width: 100%;
+  margin: 0 auto 0 auto;
+  background-image: url('background.jpg');
+}
+
+ol {
+  list-style-type: none;
+}
