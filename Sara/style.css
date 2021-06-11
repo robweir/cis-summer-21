@@ -1,0 +1,34 @@
+html {
+  font-size: 1em;
+  font-family: 'Comfortaa';
+  text-align: center;
+}
+p {
+  color: #0B2C33;
+  text-align: center;
+}
+
+body {
+  background-color: ebe;
+}
+h1 {
+  text-align: center;
+}
+
+ol {
+  text-align: center;
+  list-style-type: none;
+}
+
+#container {
+  background-color: #E6FFFF;
+  width: 95%;
+  /*margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;*/
+  margin: 0 auto 0 auto;
+
+.footer {
+    color: black;
+  }
